@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+p{
+    height: 250px;
+    background-color: white;
+    color: red ;
+}
