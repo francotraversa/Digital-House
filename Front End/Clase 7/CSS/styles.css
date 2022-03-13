@@ -1,10 +1,88 @@
 h1 {
     text-align: center;
-    background-color: lightgrey;
+    background-color: #C4C4C4;
 }
 
-p{
-    height: 250px;
+#espacio_en_blanco{
+    height: 113px;
     background-color: white;
     color: red ;
+}
+h2.Parrafos{
+    height: 30px;
+    top: 381px;
+    background-color: #C4C4C4;
+    
+}
+span.datos{
+    position: relative;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp';
+    color: #005677;
+}
+#negrita{
+    position: relative;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+#negrita_v2{
+    position: relative;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+.sacar_negrita{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+    line-height:12.7px;
+    
+}
+
+#otro_espacio_en_blanco{
+    height: 147px;
+    background-color: white;
+}
+
+#Pie{
+    position: absolute;
+    width: 1440px;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+    background-color: #005677;
+    text-align: center;
+ 
+}
+#textopie{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#img{
+  width: 20px;
+  height: 20px;
+  left: 772px;
+  top: 1050px;
 }
