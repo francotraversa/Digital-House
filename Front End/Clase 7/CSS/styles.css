@@ -61,11 +61,9 @@ span.datos{
 }
 
 #Pie{
-    position: absolute;
-    width: 1440px;
+    position: relative;
     height: 37px;
     left: 0px;
-    top: 987px;
     background-color: #005677;
     text-align: center;
  
@@ -78,11 +76,20 @@ span.datos{
     line-height: 84.69%;
     color: #FFFFFF;
     text-align: center;
+    vertical-align: text-bottom;
 }
 
-#img{
-  width: 20px;
-  height: 20px;
-  left: 772px;
-  top: 1050px;
+#imginsta{
+    vertical-align: text-bottom;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    left: 26px;
+}
+#imglink{
+    vertical-align: text-bottom;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    left: 52px;
 }
